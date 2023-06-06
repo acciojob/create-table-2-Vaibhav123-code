@@ -1,7 +1,7 @@
 function createTable() {
     //Write your code here
- var rn = parseInt(prompt("Enter the number of rows:"));
-  var cn = parseInt(prompt("Enter the number of columns:"));
+ var rn = parseInt(prompt("Input number of rows"));
+  var cn = parseInt(prompt("Input number of columns"));
 
   var table = document.getElementById("myTable");
 
